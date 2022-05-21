@@ -9,7 +9,7 @@ jkan_theme: Default
 
 # Authentication
 github_client_id: 7be34e390a1fe779fd50
-gatekeeper_host: https://willnobre.herokuapp.com/
+gatekeeper_host: https://willnobre.herokuapp.com
 
 # Dataset schema
 schema: default
